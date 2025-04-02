@@ -1,5 +1,3 @@
-# SecuerDoc
-
 # SecureDoc
 
 SecureDoc is a web application designed to manage and securely store documents. It uses **Spring Boot** for the backend, providing a robust, scalable, and secure API. The **React** frontend allows users to interact with the application seamlessly through a modern, responsive interface.
