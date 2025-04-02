@@ -13,7 +13,7 @@ SecureDoc is a web application designed to manage and securely store documents. 
 ## Tech Stack
 
 ### Backend (Spring Boot)
-- **Java 11**
+- **Java 21**
 - **Spring Boot** 2.x
 - **Spring Security** for authentication and authorization
 - **JWT (JSON Web Tokens)** for stateless authentication
